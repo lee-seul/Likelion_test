@@ -1,0 +1,2 @@
+module KimbobHelper
+end
